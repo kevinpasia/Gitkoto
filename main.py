@@ -1,3 +1,4 @@
-print('sad');
-print('hakdog');
-print('hanger');
+print('sad')
+print('hakdog')
+print('hanger')
+print('amen')
